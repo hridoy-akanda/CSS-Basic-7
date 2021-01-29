@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+}
+.social-container{
+    text-align: center;
+    background-color:rgb(163, 69, 2);
+    padding: 20px;
+    
+
+}
+.btn{
+    border: none;
+    font-size: 2.5rem;
+    margin:20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+/* h1{
+    text-align: center;
+} */
+.btn:hover{
+    cursor: pointer;
+   
+}
+.fb{
+    color:#1877f2;
+}
+
+.yt{
+    color:#ff0000;
+}
+.sc{
+    color:#ff5500;
+}
+.ig{
+    color:#c32aa3;
+}
+.bl{
+    color:#f5a105;
+}
+.tr{
+    color:#1da1f2;
+}
+.li{
+    color:#0a66c2;
+}
+.gh{
+    color:grey;
+}
+.fb:hover{
+    color:black;
+}
+.yt:hover{
+    color:black;
+}
+.sc:hover{
+    color:black;
+}
+.ig:hover{
+    color:black;
+}
+.bl:hover{
+    color:black;
+}
+.tr:hover{
+    color:black;
+}
+.li:hover{
+    color:black;
+}
+.gh:hover{
+    background-color:black;
+    color:white;
+}
